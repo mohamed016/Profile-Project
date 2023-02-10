@@ -1,0 +1,31 @@
+.about-body{
+    height: 100vh;
+    overflow:auto;
+    background-color:#A7FFEB;
+
+}
+.After{
+    width:100px;
+    height:2px;
+    background-color: rgb(102, 42, 42);
+}
+.about-container{
+    background-color:#1abc9c;
+}
+.icon-about{
+    color:#fff;
+    
+}
+p{
+    color: #fff;
+    font-family: 'Lato', sans-serif;
+    font-size:1.3rem !important;
+    font-weight:500;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size:4rem !important;
+    color:#fff;
+}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');

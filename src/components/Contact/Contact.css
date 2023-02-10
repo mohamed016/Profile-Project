@@ -1,0 +1,45 @@
+.After{
+    width:100px;
+    height:2px;
+    background-color: #fff;
+}
+.contact-container{
+    overflow:auto;
+    background-color:#A7FFEB;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.contact-child{
+    background-color:#1abc9c;
+    /* background-color:#fff; */
+}
+button{
+    background-color:#A7FFEB !important;
+    color:rgba(0, 0, 0, 0.583) !important;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+
+    font-size: 2.8rem;
+}
+input,textarea{
+    border: none !important;
+}
+textarea{
+    height: 5px !important;
+}
+.line{
+    height:1px;
+    background-color:rgba(0, 0, 0, 0.186);
+    margin-top:10px;
+}
+@media screen and (max-width:650px) {
+    .contact-child{
+        width: 100% !important;;
+    }
+    
+}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+ 

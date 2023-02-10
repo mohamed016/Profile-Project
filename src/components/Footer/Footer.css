@@ -1,0 +1,32 @@
+.icon-footer{
+    border: 1px solid rgba(0, 0, 0, 0.226);
+    padding: 6px;
+    border-radius:50%;
+    font-size: 18px;
+}
+.icon-footer:hover{
+    background-color:#fff;
+    color: #2c3e50
+}
+.footer-container{
+    background-color:#A7FFEB!important;
+    height:100vh
+    /* height:20% */
+}
+.footer-container2{
+    background-color:#1abc9c !important;
+}
+
+.info-footer{
+    font-size:10px
+}
+h5{
+    font-size:2rem !important ;
+}
+span{
+    font-size:1.2rem!important ;
+    align-items:center
+}
+i{
+    font-size:40px !important
+}
